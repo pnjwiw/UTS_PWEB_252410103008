@@ -1,4 +1,4 @@
-# SISCO CUP 2026
+# SISFO CUP 2026
 
 ## Identitas
 
